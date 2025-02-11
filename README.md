@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adshield
 ## Abstract:
 Social media platforms like Facebook, Instagram, and Twitter are essential hubs for advertisements, influencing billions
@@ -70,5 +69,3 @@ Feel free to open issues and submit pull requests to improve AdShield.
 ## License
 
 This project is open-source and available under the MIT License.
-
->>>>>>> 69cca4e2820016741a50b80cada5e57e43adc0e9
