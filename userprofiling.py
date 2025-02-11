@@ -113,7 +113,11 @@ if __name__ == "__main__":
     profiler = UserProfiler()
 
     # Fetching Data for Instagram, Facebook, and Twitter
+<<<<<<< HEAD
     insta_data = profiler.fetch_instagram_data('user_example')
+=======
+    insta_data = profiler.fetch_instagram_data('abishek_r_s_')
+>>>>>>> 69cca4e2820016741a50b80cada5e57e43adc0e9
     fb_data = profiler.fetch_facebook_data('user_facebook_id')  # Replace with real Facebook user ID
     twitter_data = profiler.fetch_twitter_data('user_twitter_handle')  # Replace with real Twitter handle
 
